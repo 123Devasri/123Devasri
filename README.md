@@ -6,7 +6,7 @@
 
 Building practical software projects while strengthening my foundations in computer science, development, and applied AI/NLP.
 
-[LinkedIn](#) · [Portfolio](#) · [LeetCode](#) · [Email](mailto:rdevasri123@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/deva-sri-01b80a2bb/) · [Portfolio](https://devasri26.netlify.app/) · [LeetCode](https://leetcode.com/u/Deva_Sri_26/) · [Email](mailto:rdevasri123@gmail.com)
 
 </div>
 
